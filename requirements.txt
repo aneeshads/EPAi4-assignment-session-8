@@ -1,0 +1,12 @@
+decimal
+pytest
+session8
+inspect
+os
+re 
+time
+faker
+collections
+datetime
+statistics
+random
