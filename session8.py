@@ -2,9 +2,6 @@
 # Using namedtuple, calculate the largest blood type, mean-current_location, 
 # oldest_person_age, and average age (add proper doc-strings).
 
-pip install faker
-
-
 from faker import Faker
 from collections import namedtuple, Counter
 from datetime import date, time
