@@ -1,3 +1,5 @@
+pip install faker
+
 from decimal import Decimal
 import pytest
 import session8
