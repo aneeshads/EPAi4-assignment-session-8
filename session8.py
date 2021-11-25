@@ -1,6 +1,10 @@
 # Use the Faker (Links to an external site.)library to get 10000 random profiles. 
 # Using namedtuple, calculate the largest blood type, mean-current_location, 
 # oldest_person_age, and average age (add proper doc-strings).
+
+pip install faker
+
+
 from faker import Faker
 from collections import namedtuple, Counter
 from datetime import date, time
